@@ -1,0 +1,29 @@
+body {
+    
+    background: url(..images/coding-portfolio.jpeg);
+}
+
+H1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: blue
+}
+.my-fav {
+    text-align: center;
+    color:dodgerblue;
+    font-size: 16pt;
+}
+img {
+    display:block;
+    margin:auto;
+    
+    border-radius: 50px
+}
+h3 {
+    font-family:cursive;
+    background-color: cornflowerblue;
+    
+}
